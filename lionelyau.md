@@ -23,7 +23,6 @@ Want to be Hacker?
 yes
 
 Love Sports?
-yes, weight lifting
 yes, weight training
 
 Fans of Matrix (the movie)?

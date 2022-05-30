@@ -19,7 +19,7 @@ Good in Maths?
 Not bad
 
 Desperately need a Boyfriend / Girlfriend?
-Probably
+Probably not
 
 Want to be Hacker?
 Cool thought

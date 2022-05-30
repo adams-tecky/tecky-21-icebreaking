@@ -5,7 +5,7 @@ Started / Running a Startup?
 no
 
 Had an unusual Job?
-no
+yes
 
 Prefer Coffee or Tea?
 tea

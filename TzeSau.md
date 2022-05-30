@@ -7,19 +7,15 @@ Started / Running a Startup?
 Had an unusual Job?
 
 Prefer Coffee or Tea?
-Tea
-
+TEA
 Went to Working Holiday?
-no
-
+NO
 Good in Maths?
-
+SAM
 Desperately need a Boyfriend / Girlfriend?
-ok
-
+UM..
 Want to be Hacker?
-
+......
 Love Sports?
-
+TOM
 Fans of Matrix (the movie)?
-Yes 

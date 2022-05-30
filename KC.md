@@ -1,21 +1,30 @@
-Ask your classmate to fill in the question and commit with their laptop, not yours.
 
 Learned Programming before Tecky?
+KC :No
 
 Started / Running a Startup?
+KC :No
 
 Had an unusual Job?
+KC: No
 
 Prefer Coffee or Tea?
-TEA
+KC: Coffee 
+
 Went to Working Holiday?
-NO
+KC: Yes
+
 Good in Maths?
-SAM
+KC: No
+
 Desperately need a Boyfriend / Girlfriend?
-UM..
+KC: ???? Nope
+
 Want to be Hacker?
+KC: I wish I could
 
 Love Sports?
-TOM
+KC: Yes!!!
+
 Fans of Matrix (the movie)?
+KC: Not really, prefer Tenet

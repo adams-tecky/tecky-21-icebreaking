@@ -1,29 +1,30 @@
+
 Learned Programming before Tecky?
-yes
+Samuel : No
 
 Started / Running a Startup?
-no
+Samuel: I have no idea
 
 Had an unusual Job?
-construction project management
+Samuel: No, I had an normal job.
 
 Prefer Coffee or Tea?
-tea
+Tea
 
 Went to Working Holiday?
-no
+No
 
 Good in Maths?
-yes
+Pretty good
 
 Desperately need a Boyfriend / Girlfriend?
-yes, girlfriend
+N/A
 
 Want to be Hacker?
-yes
+Don't want
 
 Love Sports?
-yes, weight training
+Yes, football is my favourite
 
 Fans of Matrix (the movie)?
-no
+Not a true fans but it's interesting 

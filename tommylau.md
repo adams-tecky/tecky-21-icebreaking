@@ -1,11 +1,11 @@
 Learned Programming before Tecky?
-yes
+no
 
 Started / Running a Startup?
 no
 
 Had an unusual Job?
-construction project management
+yes
 
 Prefer Coffee or Tea?
 tea
@@ -14,16 +14,16 @@ Went to Working Holiday?
 no
 
 Good in Maths?
-yes
+no
 
 Desperately need a Boyfriend / Girlfriend?
-yes, girlfriend
+no
 
 Want to be Hacker?
 yes
 
 Love Sports?
-yes, weight training
+yes
 
 Fans of Matrix (the movie)?
-no
+yes
